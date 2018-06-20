@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-chooser",
+        "scope": null,
+        "escapedName": "react-native-chooser",
+        "name": "react-native-chooser",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/macmall/Project/react-native/shield-saver-mobile-app"
+    ]
+  ],
+  "_from": "react-native-chooser@latest",
+  "_id": "react-native-chooser@1.7.0",
+  "_inCache": true,
+  "_location": "/react-native-chooser",
+  "_nodeVersion": "9.0.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-chooser-1.7.0.tgz_1511941885574_0.6180264421273023"
+  },
+  "_npmUser": {
+    "name": "js-media",
+    "email": "azhar.mw@gmail.com"
+  },
+  "_npmVersion": "5.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-chooser",
+    "scope": null,
+    "escapedName": "react-native-chooser",
+    "name": "react-native-chooser",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-chooser/-/react-native-chooser-1.7.0.tgz",
+  "_shasum": "f0cf5f19cec2677932450711dc81625541607714",
+  "_shrinkwrap": null,
+  "_spec": "react-native-chooser",
+  "_where": "/Users/macmall/Project/react-native/shield-saver-mobile-app",
+  "author": {
+    "name": "Azhar"
+  },
+  "bugs": {
+    "url": "https://github.com/gs-akhan/react-native-chooser/issues"
+  },
+  "dependencies": {},
+  "description": "Simple Cross platform SELECT tag for React-Native",
+  "devDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.12"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-mV9VgdnfiZNSGbz0YPClZewNzM+vjTLx45+kzu086OadvB+FDsxQaAOKmW1CXPZzIW1o2tEQv8Psdnl/ICBtgg==",
+    "shasum": "f0cf5f19cec2677932450711dc81625541607714",
+    "tarball": "https://registry.npmjs.org/react-native-chooser/-/react-native-chooser-1.7.0.tgz"
+  },
+  "gitHead": "9019b7299cfe5eab75aa6ef4876b382162421d14",
+  "homepage": "https://github.com/gs-akhan/react-native-chooser#readme",
+  "keywords": [
+    "react-native",
+    "chooser",
+    "select",
+    "picker"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "js-media",
+      "email": "azhar.mw@gmail.com"
+    },
+    {
+      "name": "stoffern",
+      "email": "kristoffer.klevenberg@gmail.com"
+    }
+  ],
+  "name": "react-native-chooser",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs-akhan/react-native-chooser.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.7.0"
+}
